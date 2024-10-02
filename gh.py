@@ -1,11 +1,14 @@
 print("master created.....")
 
-<<<<<<< HEAD
+
 print("master writes his 1s code .....")
 
 print("master writes his 2nd code .....")
 
-=======
 
 print("dev1 created ....")
->>>>>>> dev1
+
+
+print("master was behind but merged to dev1 issue solved..")
+
+print("master continues,.....")
